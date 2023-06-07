@@ -1,0 +1,1390 @@
+05/03/2022 05:21:18 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 05:22:18 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 05:24:43 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 05:27:19 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 06:46:17 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 06:46:17 PM:INFO:Starting Video Stream
+05/03/2022 06:46:17 PM:INFO:Recording started now!...
+05/03/2022 06:47:19 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 06:47:19 PM:INFO:Starting Video Stream
+05/03/2022 06:47:19 PM:INFO:Recording started now!...
+05/03/2022 06:47:55 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 06:47:56 PM:INFO:Starting Video Stream
+05/03/2022 06:47:56 PM:INFO:Recording started now!...
+05/03/2022 06:48:01 PM:INFO:Persisted frame: image_2022-05-03_18.48.01.png
+05/03/2022 06:48:06 PM:INFO:Persisted frame: image_2022-05-03_18.48.06.png
+05/03/2022 06:48:11 PM:INFO:Persisted frame: image_2022-05-03_18.48.11.png
+05/03/2022 06:48:16 PM:INFO:Persisted frame: image_2022-05-03_18.48.16.png
+05/03/2022 06:48:21 PM:INFO:Persisted frame: image_2022-05-03_18.48.21.png
+05/03/2022 06:48:26 PM:INFO:Persisted frame: image_2022-05-03_18.48.26.png
+05/03/2022 06:48:30 PM:INFO:Stopping Video Stream
+05/03/2022 06:48:30 PM:INFO:Stopped Video Stream
+05/03/2022 06:48:30 PM:INFO:Recording saved at ./recordings/recording_2022-05-03_18.47.56.h264
+05/03/2022 06:48:30 PM:INFO:==================BYE!==================
+05/03/2022 07:14:35 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:14:35 PM:INFO:Starting Video Stream
+05/03/2022 07:14:35 PM:INFO:Recording started now!...
+05/03/2022 07:14:35 PM:INFO:Stopping Video Stream
+05/03/2022 07:14:35 PM:INFO:Stopped Video Stream
+05/03/2022 07:14:35 PM:INFO:Recording saved at ./recordings/recording_2022-05-03_19.14.35.h264
+05/03/2022 07:15:22 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:15:22 PM:INFO:Starting Video Stream
+05/03/2022 07:15:22 PM:INFO:Recording started now!...
+05/03/2022 07:15:27 PM:INFO:Persisted frame: image_2022-05-03_19.15.27.png
+05/03/2022 07:15:32 PM:INFO:Persisted frame: image_2022-05-03_19.15.32.png
+05/03/2022 07:15:37 PM:INFO:Persisted frame: image_2022-05-03_19.15.37.png
+05/03/2022 07:15:39 PM:INFO:Stopping Video Stream
+05/03/2022 07:15:39 PM:INFO:Stopped Video Stream
+05/03/2022 07:15:39 PM:INFO:Recording saved at ./recordings/recording_2022-05-03_19.15.22.h264
+05/03/2022 07:16:25 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:16:38 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:22:40 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:25:21 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:25:21 PM:INFO:Starting Video Stream
+05/03/2022 07:25:21 PM:INFO:Recording started now!...
+05/03/2022 07:25:26 PM:INFO:Persisted frame: image_2022-05-03_19.25.26.png
+05/03/2022 07:25:31 PM:INFO:Persisted frame: image_2022-05-03_19.25.31.png
+05/03/2022 07:25:33 PM:INFO:Stopping Video Stream
+05/03/2022 07:25:33 PM:INFO:Stopped Video Stream
+05/03/2022 07:25:33 PM:INFO:Recording saved at ./recordings/recording_2022-05-03_19.25.21.h264
+05/03/2022 07:26:42 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:26:42 PM:INFO:Starting Video Stream
+05/03/2022 07:26:42 PM:INFO:Recording started now!...
+05/03/2022 07:26:47 PM:INFO:Persisted frame: image_2022-05-03_19.26.47.png
+05/03/2022 07:26:52 PM:INFO:Persisted frame: image_2022-05-03_19.26.52.png
+05/03/2022 07:26:53 PM:INFO:Stopping Video Stream
+05/03/2022 07:26:53 PM:INFO:Stopped Video Stream
+05/03/2022 07:26:53 PM:INFO:Recording saved at ./recordings/recording_2022-05-03_19.26.42.h264
+05/03/2022 07:26:53 PM:INFO:Uploaded recording_2022-05-03_19.26.42.h264 video file to S3 Bucket
+05/03/2022 07:26:53 PM:INFO:==================BYE!==================
+05/03/2022 07:42:18 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:42:18 PM:INFO:Starting Video Stream
+05/03/2022 07:42:19 PM:INFO:Recording started now!...
+05/03/2022 07:42:24 PM:INFO:Persisted frame: image_2022-05-03_19.42.24.png
+05/03/2022 07:42:29 PM:INFO:Persisted frame: image_2022-05-03_19.42.29.png
+05/03/2022 07:42:34 PM:INFO:Persisted frame: image_2022-05-03_19.42.34.png
+05/03/2022 07:42:34 PM:INFO:Stopping Video Stream
+05/03/2022 07:42:34 PM:INFO:Stopped Video Stream
+05/03/2022 07:42:34 PM:INFO:Recording saved at ./recordings/recording_2022-05-03_19.42.18.h264
+05/03/2022 07:42:34 PM:INFO:Uploaded recording_2022-05-03_19.42.18.h264 video file to S3 Bucket
+05/03/2022 07:42:34 PM:INFO:==================BYE!==================
+05/03/2022 07:57:48 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:57:48 PM:INFO:Starting Video Stream
+05/03/2022 07:58:24 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:58:25 PM:INFO:Starting Video Stream
+05/03/2022 07:58:25 PM:INFO:Recording started now!...
+05/03/2022 07:58:30 PM:INFO:Persisted frame: image_2022-05-03_19.58.30.png
+05/03/2022 07:58:35 PM:INFO:Persisted frame: image_2022-05-03_19.58.35.png
+05/03/2022 07:58:39 PM:INFO:Stopping Video Stream
+05/03/2022 07:58:39 PM:INFO:Stopped Video Stream
+05/03/2022 07:58:39 PM:INFO:Recording saved at ./recordings/recording_2022-05-03_19.58.25.h264
+05/03/2022 07:58:39 PM:INFO:Uploaded recording_2022-05-03_19.58.25.h264 video file to S3 Bucket
+05/03/2022 07:58:39 PM:INFO:==================BYE!==================
+05/03/2022 07:59:18 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:59:18 PM:INFO:Starting Video Stream
+05/03/2022 07:59:51 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/03/2022 07:59:52 PM:INFO:Starting Video Stream
+05/03/2022 07:59:52 PM:INFO:Recording started now!...
+05/03/2022 07:59:57 PM:INFO:Persisted frame: image_2022-05-03_19.59.57.png
+05/03/2022 08:00:02 PM:INFO:Persisted frame: image_2022-05-03_20.00.02.png
+05/03/2022 08:00:03 PM:INFO:Stopping Video Stream
+05/03/2022 08:00:03 PM:INFO:Stopped Video Stream
+05/03/2022 08:00:03 PM:INFO:Recording saved at ./recordings/recording_2022-05-03_19.59.52.h264
+05/03/2022 08:00:03 PM:INFO:Uploaded recording_2022-05-03_19.59.52.h264 video file to S3 Bucket
+05/03/2022 08:00:03 PM:INFO:==================BYE!==================
+05/04/2022 04:47:44 PM:INFO:Starting HTTP Server...
+05/04/2022 04:47:44 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 04:47:44 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 04:47:44 PM:INFO:Starting Video Stream
+05/04/2022 04:47:44 PM:INFO:Recording started now!...
+05/04/2022 04:47:48 PM:INFO:Starting HTTP Server...
+05/04/2022 04:47:48 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 04:47:48 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 04:47:49 PM:INFO:Persisted frame: image_2022-05-04_16.47.49.png
+05/04/2022 04:47:54 PM:INFO:Persisted frame: image_2022-05-04_16.47.54.png
+05/04/2022 04:47:59 PM:INFO:Persisted frame: image_2022-05-04_16.47.59.png
+05/04/2022 04:48:04 PM:INFO:Persisted frame: image_2022-05-04_16.48.04.png
+05/04/2022 04:48:08 PM:INFO:Stopping Video Stream
+05/04/2022 04:48:08 PM:INFO:Stopped Video Stream
+05/04/2022 04:48:08 PM:INFO:Stopping HTTP Server
+05/04/2022 04:48:08 PM:INFO:Stopped Server
+05/04/2022 04:48:08 PM:INFO:Recording saved at ./recordings/recording_2022-05-04_16.47.44.h264
+05/04/2022 04:48:08 PM:INFO:Uploaded recording_2022-05-04_16.47.44.h264 video file to S3 Bucket
+05/04/2022 04:48:08 PM:INFO:==================BYE!==================
+05/04/2022 04:52:09 PM:INFO:Starting HTTP Server...
+05/04/2022 04:52:09 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 04:52:09 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 04:52:09 PM:INFO:Starting Video Stream
+05/04/2022 04:52:09 PM:INFO:Recording started now!...
+05/04/2022 04:52:14 PM:INFO:Starting HTTP Server...
+05/04/2022 04:52:14 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 04:52:14 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 04:52:15 PM:INFO:Persisted frame: image_2022-05-04_16.52.15.png
+05/04/2022 04:52:20 PM:INFO:Persisted frame: image_2022-05-04_16.52.20.png
+05/04/2022 04:52:20 PM:INFO:Stopping Video Stream
+05/04/2022 04:52:20 PM:INFO:Stopped Video Stream
+05/04/2022 04:52:20 PM:INFO:Stopping HTTP Server
+05/04/2022 04:52:20 PM:INFO:Stopped Server
+05/04/2022 04:52:20 PM:INFO:Recording saved at ./recordings/recording_2022-05-04_16.52.09.h264
+05/04/2022 04:52:20 PM:INFO:Uploaded recording_2022-05-04_16.52.09.h264 video file to S3 Bucket
+05/04/2022 04:52:20 PM:INFO:==================BYE!==================
+05/04/2022 05:02:47 PM:INFO:Starting HTTP Server...
+05/04/2022 05:02:47 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:02:47 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:02:48 PM:INFO:Starting Video Stream
+05/04/2022 05:02:48 PM:INFO:Recording started now!...
+05/04/2022 05:02:52 PM:INFO:Starting HTTP Server...
+05/04/2022 05:02:52 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:02:52 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:02:53 PM:INFO:Persisted frame: image_2022-05-04_17.02.53.png
+05/04/2022 05:02:58 PM:INFO:Persisted frame: image_2022-05-04_17.02.58.png
+05/04/2022 05:03:00 PM:INFO:Stopping Video Stream
+05/04/2022 05:03:00 PM:INFO:Stopped Video Stream
+05/04/2022 05:03:00 PM:INFO:Stopping HTTP Server
+05/04/2022 05:03:00 PM:INFO:Stopped Server
+05/04/2022 05:03:00 PM:INFO:Recording saved at ./recordings/recording_2022-05-04_17.02.48.h264
+05/04/2022 05:03:00 PM:INFO:Uploaded recording_2022-05-04_17.02.48.h264 video file to S3 Bucket
+05/04/2022 05:03:00 PM:INFO:==================BYE!==================
+05/04/2022 05:07:10 PM:INFO:Starting HTTP Server...
+05/04/2022 05:07:14 PM:INFO:Starting HTTP Server...
+05/04/2022 05:07:45 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:07:45 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:07:45 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:07:45 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:22:10 PM:INFO:Starting HTTP Server...
+05/04/2022 05:22:12 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:22:12 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:22:15 PM:INFO:Starting HTTP Server...
+05/04/2022 05:22:17 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:22:17 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:35:55 PM:INFO:Starting HTTP Server...
+05/04/2022 05:35:55 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:35:55 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:35:59 PM:INFO:Starting HTTP Server...
+05/04/2022 05:35:59 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:35:59 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:43:59 PM:INFO:Starting HTTP Server...
+05/04/2022 05:43:59 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:43:59 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:44:03 PM:INFO:Starting HTTP Server...
+05/04/2022 05:44:03 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:44:03 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:46:54 PM:INFO:Starting HTTP Server...
+05/04/2022 05:46:54 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:46:54 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:46:58 PM:INFO:Starting HTTP Server...
+05/04/2022 05:46:58 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:46:58 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:51:35 PM:INFO:Starting HTTP Server...
+05/04/2022 05:51:35 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:51:35 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:51:35 PM:INFO:Starting Video Stream
+05/04/2022 05:51:35 PM:INFO:Recording started now!...
+05/04/2022 05:51:39 PM:INFO:Starting HTTP Server...
+05/04/2022 05:51:39 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:51:39 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 05:51:40 PM:INFO:Persisted frame: image_2022-05-04_17.51.40.png
+05/04/2022 05:51:45 PM:INFO:Persisted frame: image_2022-05-04_17.51.45.png
+05/04/2022 05:51:51 PM:INFO:Persisted frame: image_2022-05-04_17.51.51.png
+05/04/2022 05:51:53 PM:INFO:Stopping Video Stream
+05/04/2022 05:51:53 PM:INFO:Stopped Video Stream
+05/04/2022 05:51:53 PM:INFO:Stopping HTTP Server
+05/04/2022 05:51:53 PM:INFO:Stopped Server
+05/04/2022 05:51:53 PM:INFO:Recording saved at ./recordings/recording_2022-05-04_17.51.35.h264
+05/04/2022 05:51:53 PM:INFO:Uploaded recording_2022-05-04_17.51.35.h264 video file to S3 Bucket
+05/04/2022 05:51:53 PM:INFO:==================BYE!==================
+05/04/2022 05:59:10 PM:INFO:Starting HTTP Server...
+05/04/2022 05:59:10 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 05:59:10 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 06:02:00 PM:INFO:Starting HTTP Server...
+05/04/2022 06:02:00 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 06:02:00 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 06:06:49 PM:INFO:Starting HTTP Server...
+05/04/2022 06:06:49 PM:INFO:Listening for SNS messages on 0.0.0.0:5460
+05/04/2022 06:06:49 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/04/2022 06:06:49 PM:INFO:Starting Video Stream
+05/04/2022 06:06:49 PM:INFO:Recording started now!...
+05/04/2022 06:06:54 PM:INFO:Persisted frame: image_2022-05-04_18.06.54.png
+05/04/2022 06:06:59 PM:INFO:Persisted frame: image_2022-05-04_18.06.59.png
+05/04/2022 06:07:01 PM:INFO:Stopping Video Stream
+05/04/2022 06:07:01 PM:INFO:Stopped Video Stream
+05/04/2022 06:07:01 PM:INFO:Stopping HTTP Server
+05/04/2022 06:07:01 PM:INFO:Stopped Server
+05/04/2022 06:07:01 PM:INFO:Recording saved at ./recordings/recording_2022-05-04_18.06.49.h264
+05/04/2022 06:07:01 PM:INFO:Uploaded recording_2022-05-04_18.06.49.h264 video file to S3 Bucket
+05/04/2022 06:07:01 PM:INFO:==================BYE!==================
+05/05/2022 03:00:51 AM Address resolution failed: gaierror(-2, 'Name or service not known')
+05/05/2022 03:00:51 AM getaddrinfo failed: gaierror(-2, 'Name or service not known').
+05/05/2022 03:00:51 AM AMQP connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None.
+05/05/2022 03:00:51 AM AMQPConnectionWorkflow - reporting failure: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+05/05/2022 03:00:51 AM Connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+05/05/2022 03:00:51 AM Error in _create_connection().
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/blocking_connection.py", line 451, in _create_connection
+    raise self._reap_last_connection_workflow_error(error)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/selector_ioloop_adapter.py", line 565, in _resolve
+    result = socket.getaddrinfo(self._host, self._port, self._family,
+  File "/usr/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+05/05/2022 03:03:29 AM Address resolution failed: gaierror(-2, 'Name or service not known')
+05/05/2022 03:03:29 AM getaddrinfo failed: gaierror(-2, 'Name or service not known').
+05/05/2022 03:03:29 AM AMQP connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None.
+05/05/2022 03:03:29 AM AMQPConnectionWorkflow - reporting failure: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+05/05/2022 03:03:29 AM Connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+05/05/2022 03:03:29 AM Error in _create_connection().
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/blocking_connection.py", line 451, in _create_connection
+    raise self._reap_last_connection_workflow_error(error)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/selector_ioloop_adapter.py", line 565, in _resolve
+    result = socket.getaddrinfo(self._host, self._port, self._family,
+  File "/usr/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+05/05/2022 03:05:57 AM Address resolution failed: gaierror(-2, 'Name or service not known')
+05/05/2022 03:05:57 AM getaddrinfo failed: gaierror(-2, 'Name or service not known').
+05/05/2022 03:05:57 AM AMQP connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None.
+05/05/2022 03:05:57 AM AMQPConnectionWorkflow - reporting failure: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+05/05/2022 03:05:57 AM Connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+05/05/2022 03:05:57 AM Error in _create_connection().
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/blocking_connection.py", line 451, in _create_connection
+    raise self._reap_last_connection_workflow_error(error)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/selector_ioloop_adapter.py", line 565, in _resolve
+    result = socket.getaddrinfo(self._host, self._port, self._family,
+  File "/usr/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+05/05/2022 03:06:17 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:06:17 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38316), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:06:17 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38316), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:06:17 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c14b38>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c14b38> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:06:17 AM Aborting transport connection: state=1; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38316), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:06:17 AM _AsyncTransportBase._initate_abort(): Initiating abrupt asynchronous transport shutdown: state=1; error=None; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38316), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:06:17 AM Deactivating transport: state=1; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38316), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:06:17 AM AMQP stack terminated, failed to connect, or aborted: opened=False, error-arg=None; pending-error=ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'
+05/05/2022 03:06:17 AM Connection closed while authenticating indicating a probable authentication error
+05/05/2022 03:06:17 AM Connection setup terminated due to ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",)
+05/05/2022 03:06:17 AM AMQPConnector - reporting failure: AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",)
+05/05/2022 03:06:17 AM AMQP connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",); first exception - None.
+05/05/2022 03:06:17 AM AMQPConnectionWorkflow - reporting failure: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",); first exception - None
+05/05/2022 03:06:17 AM Closing transport socket and unlinking: state=3; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38316), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:06:17 AM Connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",); first exception - None
+05/05/2022 03:06:17 AM Error in _create_connection().
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/blocking_connection.py", line 451, in _create_connection
+    raise self._reap_last_connection_workflow_error(error)
+pika.exceptions.ProbableAuthenticationError: ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'
+05/05/2022 03:09:08 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:09:08 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38320), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:09:08 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38320), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:09:08 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b5ab38>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b5ab38> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:09:09 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b5ab38> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:09:09 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b5ab38> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:09:09 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b5ab38> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:09:09 AM Created channel=1
+05/05/2022 03:26:20 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:26:21 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38324), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:26:21 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38324), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:26:21 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b7fb50>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b7fb50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:26:21 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b7fb50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:26:21 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b7fb50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:26:21 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b7fb50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:26:21 AM Created channel=1
+05/05/2022 03:26:21 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:26:21 AM Subscribed MessageQueue...
+05/05/2022 03:28:15 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:28:15 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38328), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:28:15 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38328), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:28:15 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bc5b80>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bc5b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:28:15 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bc5b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:28:15 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bc5b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:28:15 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bc5b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:28:15 AM Created channel=1
+05/05/2022 03:28:15 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:28:15 AM Subscribed MessageQueue...
+05/05/2022 03:28:15 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:28:15 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:28:16 AM:INFO:Starting Video Stream
+05/05/2022 03:28:16 AM Starting Video Stream
+05/05/2022 03:28:16 AM:INFO:Recording started now!...
+05/05/2022 03:28:16 AM Recording started now!...
+05/05/2022 03:28:21 AM:INFO:Persisted frame: image_2022-05-05_03.28.21.png
+05/05/2022 03:28:21 AM Persisted frame: image_2022-05-05_03.28.21.png
+05/05/2022 03:28:22 AM:INFO:Stopping Video Stream
+05/05/2022 03:28:22 AM Stopping Video Stream
+05/05/2022 03:28:22 AM:INFO:Stopped Video Stream
+05/05/2022 03:28:22 AM Stopped Video Stream
+05/05/2022 03:28:22 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:28:22 AM Closing Message Queue Connection
+05/05/2022 03:28:22 AM Closing channel (0): 'Normal shutdown' on <Channel number=1 OPEN conn=<SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bc5b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>>
+05/05/2022 03:28:22 AM Received <Channel.CloseOk> on <Channel number=1 CLOSING conn=<SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bc5b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>>
+05/05/2022 03:28:22 AM Closing connection (200): Normal shutdown
+05/05/2022 03:28:22 AM Closing connection (200): 'Normal shutdown'
+05/05/2022 03:28:22 AM Aborting transport connection: state=1; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38328), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:28:22 AM _AsyncTransportBase._initate_abort(): Initiating abrupt asynchronous transport shutdown: state=1; error=None; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38328), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:28:22 AM Deactivating transport: state=1; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38328), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:28:22 AM AMQP stack terminated, failed to connect, or aborted: opened=True, error-arg=None; pending-error=ConnectionClosedByClient: (200) 'Normal shutdown'
+05/05/2022 03:28:22 AM Stack terminated due to ConnectionClosedByClient: (200) 'Normal shutdown'
+05/05/2022 03:28:22 AM Closing transport socket and unlinking: state=3; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38328), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:28:22 AM User-initiated close: result=BlockingConnection__OnClosedArgs(connection=<SelectConnection CLOSED transport=None params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>, error=ConnectionClosedByClient: (200) 'Normal shutdown')
+05/05/2022 03:31:29 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:31:29 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38332), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:31:29 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38332), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:31:29 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c18b80>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c18b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:31:29 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c18b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:31:29 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c18b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:31:29 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c18b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:31:29 AM Created channel=1
+05/05/2022 03:31:30 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:31:30 AM Subscribed MessageQueue...
+05/05/2022 03:31:30 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:31:30 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:31:30 AM:INFO:Starting Video Stream
+05/05/2022 03:31:30 AM Starting Video Stream
+05/05/2022 03:31:30 AM:INFO:Recording started now!...
+05/05/2022 03:31:30 AM Recording started now!...
+05/05/2022 03:31:35 AM:INFO:Persisted frame: image_2022-05-05_03.31.35.png
+05/05/2022 03:31:35 AM Persisted frame: image_2022-05-05_03.31.35.png
+05/05/2022 03:31:40 AM:INFO:Persisted frame: image_2022-05-05_03.31.40.png
+05/05/2022 03:31:40 AM Persisted frame: image_2022-05-05_03.31.40.png
+05/05/2022 03:31:41 AM:INFO:Stopping Video Stream
+05/05/2022 03:31:41 AM Stopping Video Stream
+05/05/2022 03:31:41 AM:INFO:Stopped Video Stream
+05/05/2022 03:31:41 AM Stopped Video Stream
+05/05/2022 03:31:41 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:31:41 AM Closing Message Queue Connection
+05/05/2022 03:31:41 AM Closing channel (0): 'Normal shutdown' on <Channel number=1 OPEN conn=<SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c18b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>>
+05/05/2022 03:31:41 AM _AsyncBaseTransport._consume() failed, aborting connection: error=SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)'); sock=<ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38332)>; Caller's stack:
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+05/05/2022 03:31:41 AM Wrapped func exited with exception. Caller's stack:
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/diagnostic_utils.py", line 53, in log_exception_func_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/diagnostic_utils.py", line 53, in log_exception_func_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+05/05/2022 03:31:41 AM _AsyncTransportBase._initate_abort(): Initiating abrupt asynchronous transport shutdown: state=1; error=SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)'); <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38332)>
+05/05/2022 03:31:41 AM Deactivating transport: state=1; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38332)>
+05/05/2022 03:31:41 AM connection_lost: StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:31:41 AM AMQP stack terminated, failed to connect, or aborted: opened=True, error-arg=StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",); pending-error=None
+05/05/2022 03:31:41 AM Stack terminated due to StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:31:41 AM Closing transport socket and unlinking: state=2; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38332)>
+05/05/2022 03:31:41 AM Unexpected connection close detected: StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:33:55 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:33:55 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38336), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:33:55 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38336), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:33:55 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2ab80>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2ab80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:33:56 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2ab80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:33:56 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2ab80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:33:56 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2ab80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:33:56 AM Created channel=1
+05/05/2022 03:33:56 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:33:56 AM Subscribed MessageQueue...
+05/05/2022 03:33:56 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:33:56 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:33:56 AM Received remote Channel.Close (404): "NOT_FOUND - no queue 'classification-result' in vhost '/'" on <Channel number=1 OPEN conn=<SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2ab80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>>
+05/05/2022 03:33:56 AM:INFO:Starting Video Stream
+05/05/2022 03:33:56 AM Starting Video Stream
+05/05/2022 03:33:56 AM:INFO:Recording started now!...
+05/05/2022 03:33:56 AM Recording started now!...
+05/05/2022 03:34:01 AM:INFO:Persisted frame: image_2022-05-05_03.34.01.png
+05/05/2022 03:34:01 AM Persisted frame: image_2022-05-05_03.34.01.png
+05/05/2022 03:34:06 AM:INFO:Persisted frame: image_2022-05-05_03.34.06.png
+05/05/2022 03:34:06 AM Persisted frame: image_2022-05-05_03.34.06.png
+05/05/2022 03:34:11 AM:INFO:Stopping Video Stream
+05/05/2022 03:34:11 AM Stopping Video Stream
+05/05/2022 03:34:11 AM:INFO:Stopped Video Stream
+05/05/2022 03:34:11 AM Stopped Video Stream
+05/05/2022 03:34:11 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:34:11 AM Closing Message Queue Connection
+05/05/2022 03:34:11 AM Closing channel (0): 'Normal shutdown' on <Channel number=1 OPEN conn=<SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2ab80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>>
+05/05/2022 03:34:11 AM _AsyncBaseTransport._consume() failed, aborting connection: error=SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)'); sock=<ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38336)>; Caller's stack:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/PIL/ImageFile.py", line 510, in _save
+    fh = fp.fileno()
+AttributeError: '_idat' object has no attribute 'fileno'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/PIL/ImageFile.py", line 510, in _save
+    fh = fp.fileno()
+AttributeError: '_idat' object has no attribute 'fileno'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+05/05/2022 03:34:11 AM Wrapped func exited with exception. Caller's stack:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/PIL/ImageFile.py", line 510, in _save
+    fh = fp.fileno()
+AttributeError: '_idat' object has no attribute 'fileno'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/diagnostic_utils.py", line 53, in log_exception_func_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/PIL/ImageFile.py", line 510, in _save
+    fh = fp.fileno()
+AttributeError: '_idat' object has no attribute 'fileno'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/diagnostic_utils.py", line 53, in log_exception_func_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+05/05/2022 03:34:11 AM _AsyncTransportBase._initate_abort(): Initiating abrupt asynchronous transport shutdown: state=1; error=SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)'); <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38336)>
+05/05/2022 03:34:11 AM Deactivating transport: state=1; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38336)>
+05/05/2022 03:34:11 AM connection_lost: StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:34:11 AM AMQP stack terminated, failed to connect, or aborted: opened=True, error-arg=StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",); pending-error=None
+05/05/2022 03:34:11 AM Stack terminated due to StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:34:11 AM Closing transport socket and unlinking: state=2; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38336)>
+05/05/2022 03:34:11 AM Unexpected connection close detected: StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:39:24 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:39:24 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38340), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:39:25 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38340), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:39:25 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b56b80>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b56b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:39:25 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b56b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:39:25 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b56b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:39:25 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b56b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:39:25 AM Created channel=1
+05/05/2022 03:39:25 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:39:25 AM Subscribed MessageQueue...
+05/05/2022 03:39:25 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:39:25 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:39:25 AM:INFO:Starting Video Stream
+05/05/2022 03:39:25 AM Starting Video Stream
+05/05/2022 03:39:25 AM:INFO:Recording started now!...
+05/05/2022 03:39:25 AM Recording started now!...
+05/05/2022 03:39:30 AM:INFO:Persisted frame: image_2022-05-05_03.39.30.png
+05/05/2022 03:39:30 AM Persisted frame: image_2022-05-05_03.39.30.png
+05/05/2022 03:39:35 AM:INFO:Persisted frame: image_2022-05-05_03.39.35.png
+05/05/2022 03:39:35 AM Persisted frame: image_2022-05-05_03.39.35.png
+05/05/2022 03:39:41 AM:INFO:Persisted frame: image_2022-05-05_03.39.41.png
+05/05/2022 03:39:41 AM Persisted frame: image_2022-05-05_03.39.41.png
+05/05/2022 03:39:42 AM:INFO:Stopping Video Stream
+05/05/2022 03:39:42 AM Stopping Video Stream
+05/05/2022 03:39:42 AM:INFO:Stopped Video Stream
+05/05/2022 03:39:42 AM Stopped Video Stream
+05/05/2022 03:39:42 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:39:42 AM Closing Message Queue Connection
+05/05/2022 03:39:42 AM Closing channel (0): 'Normal shutdown' on <Channel number=1 OPEN conn=<SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b56b80> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>>
+05/05/2022 03:39:42 AM _AsyncBaseTransport._consume() failed, aborting connection: error=SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)'); sock=<ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38340)>; Caller's stack:
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+05/05/2022 03:39:42 AM Wrapped func exited with exception. Caller's stack:
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/diagnostic_utils.py", line 53, in log_exception_func_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/diagnostic_utils.py", line 53, in log_exception_func_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+05/05/2022 03:39:42 AM _AsyncTransportBase._initate_abort(): Initiating abrupt asynchronous transport shutdown: state=1; error=SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)'); <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38340)>
+05/05/2022 03:39:42 AM Deactivating transport: state=1; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38340)>
+05/05/2022 03:39:42 AM connection_lost: StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:39:42 AM AMQP stack terminated, failed to connect, or aborted: opened=True, error-arg=StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",); pending-error=None
+05/05/2022 03:39:42 AM Stack terminated due to StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:39:42 AM Closing transport socket and unlinking: state=2; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38340)>
+05/05/2022 03:39:42 AM Unexpected connection close detected: StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:43:16 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:43:16 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38344), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:43:16 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38344), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:43:16 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b4db50>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b4db50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:43:16 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b4db50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:43:16 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b4db50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:43:16 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b4db50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:43:16 AM Created channel=1
+05/05/2022 03:43:16 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:43:16 AM Subscribed MessageQueue...
+05/05/2022 03:43:16 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:43:16 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:43:17 AM:INFO:Starting Video Stream
+05/05/2022 03:43:17 AM Starting Video Stream
+05/05/2022 03:43:17 AM:INFO:Recording started now!...
+05/05/2022 03:43:17 AM Recording started now!...
+05/05/2022 03:43:22 AM:INFO:Persisted frame: image_2022-05-05_03.43.22.png
+05/05/2022 03:43:22 AM Persisted frame: image_2022-05-05_03.43.22.png
+05/05/2022 03:43:23 AM:INFO:Stopping Video Stream
+05/05/2022 03:43:23 AM Stopping Video Stream
+05/05/2022 03:43:23 AM:INFO:Stopped Video Stream
+05/05/2022 03:43:23 AM Stopped Video Stream
+05/05/2022 03:43:23 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:43:23 AM Closing Message Queue Connection
+05/05/2022 03:43:23 AM:INFO:Closed Message Queue Connection
+05/05/2022 03:43:23 AM Closed Message Queue Connection
+05/05/2022 03:43:23 AM:INFO:Recording saved at ./recordings/recording_2022-05-05_03.43.17.h264
+05/05/2022 03:43:23 AM Recording saved at ./recordings/recording_2022-05-05_03.43.17.h264
+05/05/2022 03:43:23 AM:INFO:Uploaded recording_2022-05-05_03.43.17.h264 video file to S3 Bucket
+05/05/2022 03:43:23 AM Uploaded recording_2022-05-05_03.43.17.h264 video file to S3 Bucket
+05/05/2022 03:43:23 AM:INFO:==================BYE!==================
+05/05/2022 03:43:23 AM ==================BYE!==================
+05/05/2022 03:44:04 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:44:04 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38348), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:44:05 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38348), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:44:05 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c10b50>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c10b50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:44:05 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c10b50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:44:05 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c10b50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:44:05 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c10b50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:44:05 AM Created channel=1
+05/05/2022 03:44:05 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:44:05 AM Subscribed MessageQueue...
+05/05/2022 03:44:05 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:44:05 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:44:05 AM:INFO:Starting Video Stream
+05/05/2022 03:44:05 AM Starting Video Stream
+05/05/2022 03:44:05 AM:INFO:Recording started now!...
+05/05/2022 03:44:05 AM Recording started now!...
+05/05/2022 03:44:10 AM:INFO:Persisted frame: image_2022-05-05_03.44.10.png
+05/05/2022 03:44:10 AM Persisted frame: image_2022-05-05_03.44.10.png
+05/05/2022 03:44:16 AM:INFO:Persisted frame: image_2022-05-05_03.44.16.png
+05/05/2022 03:44:16 AM Persisted frame: image_2022-05-05_03.44.16.png
+05/05/2022 03:44:16 AM:INFO:Stopping Video Stream
+05/05/2022 03:44:16 AM Stopping Video Stream
+05/05/2022 03:44:16 AM:INFO:Stopped Video Stream
+05/05/2022 03:44:16 AM Stopped Video Stream
+05/05/2022 03:44:16 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:44:16 AM Closing Message Queue Connection
+05/05/2022 03:44:16 AM:INFO:Closed Message Queue Connection
+05/05/2022 03:44:16 AM Closed Message Queue Connection
+05/05/2022 03:44:16 AM:INFO:Recording saved at ./recordings/recording_2022-05-05_03.44.05.h264
+05/05/2022 03:44:16 AM Recording saved at ./recordings/recording_2022-05-05_03.44.05.h264
+05/05/2022 03:44:16 AM:INFO:Uploaded recording_2022-05-05_03.44.05.h264 video file to S3 Bucket
+05/05/2022 03:44:16 AM Uploaded recording_2022-05-05_03.44.05.h264 video file to S3 Bucket
+05/05/2022 03:44:16 AM:INFO:==================BYE!==================
+05/05/2022 03:44:16 AM ==================BYE!==================
+05/05/2022 03:47:31 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:47:31 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38352), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:47:31 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38352), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:47:31 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b73b50>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b73b50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:47:31 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b73b50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:47:31 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b73b50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:47:31 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b73b50> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:47:31 AM Created channel=1
+05/05/2022 03:47:31 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:47:31 AM Subscribed MessageQueue...
+05/05/2022 03:47:31 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:47:31 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:47:32 AM:INFO:Starting Video Stream
+05/05/2022 03:47:32 AM Starting Video Stream
+05/05/2022 03:47:32 AM:INFO:Recording started now!...
+05/05/2022 03:47:32 AM Recording started now!...
+05/05/2022 03:47:37 AM:INFO:Persisted frame: image_2022-05-05_03.47.37.png
+05/05/2022 03:47:37 AM Persisted frame: image_2022-05-05_03.47.37.png
+05/05/2022 03:47:38 AM:INFO:Stopping Video Stream
+05/05/2022 03:47:38 AM Stopping Video Stream
+05/05/2022 03:47:38 AM:INFO:Stopped Video Stream
+05/05/2022 03:47:38 AM Stopped Video Stream
+05/05/2022 03:47:38 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:47:38 AM Closing Message Queue Connection
+05/05/2022 03:47:38 AM:INFO:Closed Message Queue Connection
+05/05/2022 03:47:38 AM Closed Message Queue Connection
+05/05/2022 03:47:38 AM:INFO:Recording saved at ./recordings/recording_2022-05-05_03.47.32.h264
+05/05/2022 03:47:38 AM Recording saved at ./recordings/recording_2022-05-05_03.47.32.h264
+05/05/2022 03:47:38 AM:INFO:Uploaded recording_2022-05-05_03.47.32.h264 video file to S3 Bucket
+05/05/2022 03:47:38 AM Uploaded recording_2022-05-05_03.47.32.h264 video file to S3 Bucket
+05/05/2022 03:47:38 AM:INFO:==================BYE!==================
+05/05/2022 03:47:38 AM ==================BYE!==================
+05/05/2022 03:50:06 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:50:06 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38356), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:50:06 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38356), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:50:06 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c1daf0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c1daf0> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:50:07 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c1daf0> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:50:07 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c1daf0> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:50:07 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c1daf0> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:50:07 AM Created channel=1
+05/05/2022 03:50:07 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:50:07 AM Subscribed MessageQueue...
+05/05/2022 03:50:07 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:50:07 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:50:07 AM:INFO:Starting Video Stream
+05/05/2022 03:50:07 AM Starting Video Stream
+05/05/2022 03:50:07 AM:INFO:Recording started now!...
+05/05/2022 03:50:07 AM Recording started now!...
+05/05/2022 03:50:12 AM:INFO:Persisted frame: image_2022-05-05_03.50.12.png
+05/05/2022 03:50:12 AM Persisted frame: image_2022-05-05_03.50.12.png
+05/05/2022 03:50:17 AM:INFO:Persisted frame: image_2022-05-05_03.50.17.png
+05/05/2022 03:50:17 AM Persisted frame: image_2022-05-05_03.50.17.png
+05/05/2022 03:50:18 AM:INFO:Stopping Video Stream
+05/05/2022 03:50:18 AM Stopping Video Stream
+05/05/2022 03:50:18 AM:INFO:Stopped Video Stream
+05/05/2022 03:50:18 AM Stopped Video Stream
+05/05/2022 03:50:18 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:50:18 AM Closing Message Queue Connection
+05/05/2022 03:50:18 AM:INFO:Closed Message Queue Connection
+05/05/2022 03:50:18 AM Closed Message Queue Connection
+05/05/2022 03:50:18 AM:INFO:Recording saved at ./recordings/recording_2022-05-05_03.50.07.h264
+05/05/2022 03:50:18 AM Recording saved at ./recordings/recording_2022-05-05_03.50.07.h264
+05/05/2022 03:50:18 AM:INFO:Uploaded recording_2022-05-05_03.50.07.h264 video file to S3 Bucket
+05/05/2022 03:50:18 AM Uploaded recording_2022-05-05_03.50.07.h264 video file to S3 Bucket
+05/05/2022 03:50:18 AM:INFO:==================BYE!==================
+05/05/2022 03:50:18 AM ==================BYE!==================
+05/05/2022 03:50:31 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:50:31 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38360), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:50:32 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38360), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:50:32 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba8ad8>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba8ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:50:32 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba8ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:50:32 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba8ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:50:32 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba8ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:50:32 AM Created channel=1
+05/05/2022 03:50:32 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:50:32 AM Subscribed MessageQueue...
+05/05/2022 03:50:32 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:50:32 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:50:32 AM:INFO:Starting Video Stream
+05/05/2022 03:50:32 AM Starting Video Stream
+05/05/2022 03:50:32 AM:INFO:Recording started now!...
+05/05/2022 03:50:32 AM Recording started now!...
+05/05/2022 03:50:37 AM:INFO:Persisted frame: image_2022-05-05_03.50.37.png
+05/05/2022 03:50:37 AM Persisted frame: image_2022-05-05_03.50.37.png
+05/05/2022 03:50:43 AM:INFO:Persisted frame: image_2022-05-05_03.50.43.png
+05/05/2022 03:50:43 AM Persisted frame: image_2022-05-05_03.50.43.png
+05/05/2022 03:50:43 AM:INFO:Stopping Video Stream
+05/05/2022 03:50:43 AM Stopping Video Stream
+05/05/2022 03:50:43 AM:INFO:Stopped Video Stream
+05/05/2022 03:50:43 AM Stopped Video Stream
+05/05/2022 03:50:43 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:50:43 AM Closing Message Queue Connection
+05/05/2022 03:50:43 AM:INFO:Closed Message Queue Connection
+05/05/2022 03:50:43 AM Closed Message Queue Connection
+05/05/2022 03:50:43 AM:INFO:Recording saved at ./recordings/recording_2022-05-05_03.50.32.h264
+05/05/2022 03:50:43 AM Recording saved at ./recordings/recording_2022-05-05_03.50.32.h264
+05/05/2022 03:50:43 AM:INFO:Uploaded recording_2022-05-05_03.50.32.h264 video file to S3 Bucket
+05/05/2022 03:50:43 AM Uploaded recording_2022-05-05_03.50.32.h264 video file to S3 Bucket
+05/05/2022 03:50:43 AM:INFO:==================BYE!==================
+05/05/2022 03:50:43 AM ==================BYE!==================
+05/05/2022 03:53:21 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:53:21 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38364), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:53:21 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38364), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:53:21 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c05b38>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c05b38> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:53:21 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c05b38> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:53:21 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c05b38> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:53:21 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c05b38> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:53:21 AM Created channel=1
+05/05/2022 03:53:21 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:53:21 AM Subscribed MessageQueue...
+05/05/2022 03:53:21 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:53:21 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:53:22 AM:INFO:Starting Video Stream
+05/05/2022 03:53:22 AM Starting Video Stream
+05/05/2022 03:53:22 AM:INFO:Recording started now!...
+05/05/2022 03:53:22 AM Recording started now!...
+05/05/2022 03:53:27 AM:INFO:Persisted frame: image_2022-05-05_03.53.27.png
+05/05/2022 03:53:27 AM Persisted frame: image_2022-05-05_03.53.27.png
+05/05/2022 03:53:28 AM:INFO:Stopping Video Stream
+05/05/2022 03:53:28 AM Stopping Video Stream
+05/05/2022 03:53:28 AM:INFO:Stopped Video Stream
+05/05/2022 03:53:28 AM Stopped Video Stream
+05/05/2022 03:53:28 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:53:28 AM Closing Message Queue Connection
+05/05/2022 03:53:28 AM Closing channel (0): 'Normal shutdown' on <Channel number=1 OPEN conn=<SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c05b38> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>>
+05/05/2022 03:53:28 AM _AsyncBaseTransport._consume() failed, aborting connection: error=SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)'); sock=<ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38364)>; Caller's stack:
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+05/05/2022 03:53:28 AM Wrapped func exited with exception. Caller's stack:
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/diagnostic_utils.py", line 53, in log_exception_func_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/diagnostic_utils.py", line 53, in log_exception_func_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1235, in _consume
+    super(_AsyncSSLTransport, self)._consume()
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+  File "/usr/lib/python3.9/ssl.py", line 1226, in recv
+    return self.read(buflen)
+  File "/usr/lib/python3.9/ssl.py", line 1101, in read
+    return self._sslobj.read(len)
+ssl.SSLError: [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)
+05/05/2022 03:53:28 AM _AsyncTransportBase._initate_abort(): Initiating abrupt asynchronous transport shutdown: state=1; error=SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)'); <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38364)>
+05/05/2022 03:53:28 AM Deactivating transport: state=1; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38364)>
+05/05/2022 03:53:28 AM connection_lost: StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:53:28 AM AMQP stack terminated, failed to connect, or aborted: opened=True, error-arg=StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",); pending-error=None
+05/05/2022 03:53:28 AM Stack terminated due to StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:53:28 AM Closing transport socket and unlinking: state=2; <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38364)>
+05/05/2022 03:53:28 AM Unexpected connection close detected: StreamLostError: ("Stream connection lost: SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2622)')",)
+05/05/2022 03:54:35 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:54:35 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38368), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:54:36 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38368), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:54:36 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c23ad8>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c23ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:54:36 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c23ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:54:36 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c23ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:54:36 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c23ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:54:36 AM Created channel=1
+05/05/2022 03:54:36 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:54:36 AM Subscribed MessageQueue...
+05/05/2022 03:54:36 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:54:36 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:54:36 AM:INFO:Starting Video Stream
+05/05/2022 03:54:36 AM Starting Video Stream
+05/05/2022 03:54:36 AM:INFO:Recording started now!...
+05/05/2022 03:54:36 AM Recording started now!...
+05/05/2022 03:54:41 AM:INFO:Persisted frame: image_2022-05-05_03.54.41.png
+05/05/2022 03:54:41 AM Persisted frame: image_2022-05-05_03.54.41.png
+05/05/2022 03:54:46 AM:INFO:Persisted frame: image_2022-05-05_03.54.46.png
+05/05/2022 03:54:46 AM Persisted frame: image_2022-05-05_03.54.46.png
+05/05/2022 03:54:47 AM:INFO:Stopping Video Stream
+05/05/2022 03:54:47 AM Stopping Video Stream
+05/05/2022 03:54:47 AM:INFO:Stopped Video Stream
+05/05/2022 03:54:47 AM Stopped Video Stream
+05/05/2022 03:54:47 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:54:47 AM Closing Message Queue Connection
+05/05/2022 03:54:47 AM:INFO:Closed Message Queue Connection
+05/05/2022 03:54:47 AM Closed Message Queue Connection
+05/05/2022 03:54:47 AM:INFO:Recording saved at ./recordings/recording_2022-05-05_03.54.36.h264
+05/05/2022 03:54:47 AM Recording saved at ./recordings/recording_2022-05-05_03.54.36.h264
+05/05/2022 03:54:47 AM:INFO:Uploaded recording_2022-05-05_03.54.36.h264 video file to S3 Bucket
+05/05/2022 03:54:47 AM Uploaded recording_2022-05-05_03.54.36.h264 video file to S3 Bucket
+05/05/2022 03:54:47 AM:INFO:==================BYE!==================
+05/05/2022 03:54:47 AM ==================BYE!==================
+05/05/2022 03:54:51 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:54:51 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38372), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:54:52 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38372), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:54:52 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba5ad8>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba5ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:54:52 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba5ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:54:52 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba5ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:54:52 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba5ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:54:52 AM Created channel=1
+05/05/2022 03:54:52 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:54:52 AM Subscribed MessageQueue...
+05/05/2022 03:54:52 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:54:52 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:54:52 AM:INFO:Starting Video Stream
+05/05/2022 03:54:52 AM Starting Video Stream
+05/05/2022 03:54:52 AM:INFO:Recording started now!...
+05/05/2022 03:54:52 AM Recording started now!...
+05/05/2022 03:54:57 AM:INFO:Persisted frame: image_2022-05-05_03.54.57.png
+05/05/2022 03:54:57 AM Persisted frame: image_2022-05-05_03.54.57.png
+05/05/2022 03:55:02 AM:INFO:Persisted frame: image_2022-05-05_03.55.02.png
+05/05/2022 03:55:02 AM Persisted frame: image_2022-05-05_03.55.02.png
+05/05/2022 03:55:03 AM:INFO:Stopping Video Stream
+05/05/2022 03:55:03 AM Stopping Video Stream
+05/05/2022 03:55:03 AM:INFO:Stopped Video Stream
+05/05/2022 03:55:03 AM Stopped Video Stream
+05/05/2022 03:55:03 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:55:03 AM Closing Message Queue Connection
+05/05/2022 03:55:03 AM:INFO:Closed Message Queue Connection
+05/05/2022 03:55:03 AM Closed Message Queue Connection
+05/05/2022 03:55:03 AM:INFO:Recording saved at ./recordings/recording_2022-05-05_03.54.52.h264
+05/05/2022 03:55:03 AM Recording saved at ./recordings/recording_2022-05-05_03.54.52.h264
+05/05/2022 03:55:03 AM:INFO:Uploaded recording_2022-05-05_03.54.52.h264 video file to S3 Bucket
+05/05/2022 03:55:03 AM Uploaded recording_2022-05-05_03.54.52.h264 video file to S3 Bucket
+05/05/2022 03:55:03 AM:INFO:==================BYE!==================
+05/05/2022 03:55:03 AM ==================BYE!==================
+05/05/2022 03:55:28 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:55:28 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38376), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:55:28 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38376), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:55:28 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c20ad8>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c20ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:55:29 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c20ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:55:29 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c20ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:55:29 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c20ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:55:29 AM Created channel=1
+05/05/2022 03:55:29 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:55:29 AM Subscribed MessageQueue...
+05/05/2022 03:55:29 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:55:29 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:55:29 AM:INFO:Starting Video Stream
+05/05/2022 03:55:29 AM Starting Video Stream
+05/05/2022 03:55:29 AM:INFO:Recording started now!...
+05/05/2022 03:55:29 AM Recording started now!...
+05/05/2022 03:55:34 AM:INFO:Persisted frame: image_2022-05-05_03.55.34.png
+05/05/2022 03:55:34 AM Persisted frame: image_2022-05-05_03.55.34.png
+05/05/2022 03:55:36 AM:INFO:Stopping Video Stream
+05/05/2022 03:55:36 AM Stopping Video Stream
+05/05/2022 03:55:36 AM:INFO:Stopped Video Stream
+05/05/2022 03:55:36 AM Stopped Video Stream
+05/05/2022 03:55:36 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:55:36 AM Closing Message Queue Connection
+05/05/2022 03:55:36 AM:INFO:Closed Message Queue Connection
+05/05/2022 03:55:36 AM Closed Message Queue Connection
+05/05/2022 03:55:36 AM:INFO:Recording saved at ./recordings/recording_2022-05-05_03.55.29.h264
+05/05/2022 03:55:36 AM Recording saved at ./recordings/recording_2022-05-05_03.55.29.h264
+05/05/2022 03:55:36 AM:INFO:Uploaded recording_2022-05-05_03.55.29.h264 video file to S3 Bucket
+05/05/2022 03:55:36 AM Uploaded recording_2022-05-05_03.55.29.h264 video file to S3 Bucket
+05/05/2022 03:55:36 AM:INFO:==================BYE!==================
+05/05/2022 03:55:36 AM ==================BYE!==================
+05/05/2022 03:57:49 AM Found credentials in shared credentials file: ~/.aws/credentials
+05/05/2022 03:57:50 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:57:50 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38380), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:57:50 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38380), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:57:50 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b67af0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b67af0> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:57:50 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b67af0> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:57:50 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b67af0> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:57:50 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73b67af0> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:57:50 AM Created channel=1
+05/05/2022 03:57:51 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:57:51 AM Subscribed MessageQueue...
+05/05/2022 03:57:51 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:57:51 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:57:51 AM:INFO:Starting Video Stream
+05/05/2022 03:57:51 AM Starting Video Stream
+05/05/2022 03:57:51 AM:INFO:Recording started now!...
+05/05/2022 03:57:51 AM Recording started now!...
+05/05/2022 03:57:56 AM:INFO:Persisted frame: image_2022-05-05_03.57.56.png
+05/05/2022 03:57:56 AM Persisted frame: image_2022-05-05_03.57.56.png
+05/05/2022 03:58:01 AM:INFO:Persisted frame: image_2022-05-05_03.58.01.png
+05/05/2022 03:58:01 AM Persisted frame: image_2022-05-05_03.58.01.png
+05/05/2022 03:58:01 AM:INFO:Stopping Video Stream
+05/05/2022 03:58:01 AM Stopping Video Stream
+05/05/2022 03:58:01 AM:INFO:Stopped Video Stream
+05/05/2022 03:58:01 AM Stopped Video Stream
+05/05/2022 03:58:01 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:58:01 AM Closing Message Queue Connection
+05/05/2022 03:58:01 AM:INFO:Closed Message Queue Connection
+05/05/2022 03:58:01 AM Closed Message Queue Connection
+05/05/2022 03:58:01 AM:INFO:Recording saved at ./recordings/recording_2022-05-05_03.57.51.h264
+05/05/2022 03:58:01 AM Recording saved at ./recordings/recording_2022-05-05_03.57.51.h264
+05/05/2022 03:58:01 AM:INFO:Uploaded recording_2022-05-05_03.57.51.h264 video file to S3 Bucket
+05/05/2022 03:58:01 AM Uploaded recording_2022-05-05_03.57.51.h264 video file to S3 Bucket
+05/05/2022 03:58:01 AM:INFO:==================BYE!==================
+05/05/2022 03:58:01 AM ==================BYE!==================
+05/05/2022 03:59:26 AM Found credentials in shared credentials file: ~/.aws/credentials
+05/05/2022 03:59:26 AM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 03:59:26 AM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38384), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:59:26 AM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 38384), raddr=('54.85.202.176', 5671)>
+05/05/2022 03:59:26 AM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba0ad8>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba0ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 03:59:27 AM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba0ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:59:27 AM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba0ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:59:27 AM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73ba0ad8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 03:59:27 AM Created channel=1
+05/05/2022 03:59:27 AM:INFO:Subscribed MessageQueue...
+05/05/2022 03:59:27 AM Subscribed MessageQueue...
+05/05/2022 03:59:27 AM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:59:27 AM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 03:59:27 AM:INFO:Starting Video Stream
+05/05/2022 03:59:27 AM Starting Video Stream
+05/05/2022 03:59:27 AM:INFO:Recording started now!...
+05/05/2022 03:59:27 AM Recording started now!...
+05/05/2022 03:59:33 AM:INFO:Persisted frame: image_2022-05-05_03.59.32.png
+05/05/2022 03:59:33 AM Persisted frame: image_2022-05-05_03.59.32.png
+05/05/2022 03:59:38 AM:INFO:Persisted frame: image_2022-05-05_03.59.38.png
+05/05/2022 03:59:38 AM Persisted frame: image_2022-05-05_03.59.38.png
+05/05/2022 03:59:43 AM:INFO:Persisted frame: image_2022-05-05_03.59.43.png
+05/05/2022 03:59:43 AM Persisted frame: image_2022-05-05_03.59.43.png
+05/05/2022 03:59:44 AM:INFO:Stopping Video Stream
+05/05/2022 03:59:44 AM Stopping Video Stream
+05/05/2022 03:59:44 AM:INFO:Stopped Video Stream
+05/05/2022 03:59:44 AM Stopped Video Stream
+05/05/2022 03:59:44 AM:INFO:Closing Message Queue Connection
+05/05/2022 03:59:44 AM Closing Message Queue Connection
+05/05/2022 03:59:44 AM:INFO:Closed Message Queue Connection
+05/05/2022 03:59:44 AM Closed Message Queue Connection
+05/05/2022 03:59:44 AM:INFO:Recording saved at ./recordings/recording_2022-05-05_03.59.27.h264
+05/05/2022 03:59:44 AM Recording saved at ./recordings/recording_2022-05-05_03.59.27.h264
+05/05/2022 03:59:46 AM:INFO:Uploaded recording_2022-05-05_03.59.27.h264 video file to S3 Bucket
+05/05/2022 03:59:46 AM Uploaded recording_2022-05-05_03.59.27.h264 video file to S3 Bucket
+05/05/2022 03:59:46 AM:INFO:==================BYE!==================
+05/05/2022 03:59:46 AM ==================BYE!==================
+05/05/2022 01:19:07 PM Found credentials in shared credentials file: ~/.aws/credentials
+05/05/2022 01:19:08 PM Address resolution failed: gaierror(-2, 'Name or service not known')
+05/05/2022 01:19:08 PM getaddrinfo failed: gaierror(-2, 'Name or service not known').
+05/05/2022 01:19:08 PM AMQP connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None.
+05/05/2022 01:19:08 PM AMQPConnectionWorkflow - reporting failure: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+05/05/2022 01:19:08 PM Connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+05/05/2022 01:19:08 PM Error in _create_connection().
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/blocking_connection.py", line 451, in _create_connection
+    raise self._reap_last_connection_workflow_error(error)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/selector_ioloop_adapter.py", line 565, in _resolve
+    result = socket.getaddrinfo(self._host, self._port, self._family,
+  File "/usr/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+05/05/2022 01:19:44 PM Found credentials in shared credentials file: ~/.aws/credentials
+05/05/2022 01:19:45 PM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 01:19:45 PM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 34482), raddr=('54.85.202.176', 5671)>
+05/05/2022 01:19:45 PM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 34482), raddr=('54.85.202.176', 5671)>
+05/05/2022 01:19:45 PM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2daa8>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2daa8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 01:19:46 PM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2daa8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:19:46 PM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2daa8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:19:46 PM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2daa8> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:19:46 PM Created channel=1
+05/05/2022 01:19:46 PM:INFO:Subscribed MessageQueue...
+05/05/2022 01:19:46 PM Subscribed MessageQueue...
+05/05/2022 01:19:46 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 01:19:46 PM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 01:19:46 PM:INFO:Starting Video Stream
+05/05/2022 01:19:46 PM Starting Video Stream
+05/05/2022 01:19:46 PM:INFO:Recording started now!...
+05/05/2022 01:19:46 PM Recording started now!...
+05/05/2022 01:19:52 PM:INFO:Persisted frame: image_2022-05-05_13.19.52.png
+05/05/2022 01:19:52 PM Persisted frame: image_2022-05-05_13.19.52.png
+05/05/2022 01:19:57 PM:INFO:Persisted frame: image_2022-05-05_13.19.57.png
+05/05/2022 01:19:57 PM Persisted frame: image_2022-05-05_13.19.57.png
+05/05/2022 01:20:02 PM:INFO:Persisted frame: image_2022-05-05_13.20.02.png
+05/05/2022 01:20:02 PM Persisted frame: image_2022-05-05_13.20.02.png
+05/05/2022 01:20:07 PM:INFO:Persisted frame: image_2022-05-05_13.20.07.png
+05/05/2022 01:20:07 PM Persisted frame: image_2022-05-05_13.20.07.png
+05/05/2022 01:20:12 PM:INFO:Persisted frame: image_2022-05-05_13.20.12.png
+05/05/2022 01:20:12 PM Persisted frame: image_2022-05-05_13.20.12.png
+05/05/2022 01:20:17 PM:INFO:Persisted frame: image_2022-05-05_13.20.17.png
+05/05/2022 01:20:17 PM Persisted frame: image_2022-05-05_13.20.17.png
+05/05/2022 01:20:22 PM:INFO:Persisted frame: image_2022-05-05_13.20.22.png
+05/05/2022 01:20:22 PM Persisted frame: image_2022-05-05_13.20.22.png
+05/05/2022 01:20:25 PM:INFO:Stopping Video Stream
+05/05/2022 01:20:25 PM Stopping Video Stream
+05/05/2022 01:20:25 PM:INFO:Stopped Video Stream
+05/05/2022 01:20:25 PM Stopped Video Stream
+05/05/2022 01:20:25 PM:INFO:Closing Message Queue Connection
+05/05/2022 01:20:25 PM Closing Message Queue Connection
+05/05/2022 01:20:25 PM:INFO:Closed Message Queue Connection
+05/05/2022 01:20:25 PM Closed Message Queue Connection
+05/05/2022 01:20:25 PM:INFO:Recording saved at ./recordings/recording_2022-05-05_13.19.46.h264
+05/05/2022 01:20:25 PM Recording saved at ./recordings/recording_2022-05-05_13.19.46.h264
+05/05/2022 01:20:25 PM:INFO:Uploaded recording_2022-05-05_13.19.46.h264 video file to S3 Bucket
+05/05/2022 01:20:25 PM Uploaded recording_2022-05-05_13.19.46.h264 video file to S3 Bucket
+05/05/2022 01:20:25 PM:INFO:==================BYE!==================
+05/05/2022 01:20:25 PM ==================BYE!==================
+05/05/2022 01:20:37 PM Found credentials in shared credentials file: ~/.aws/credentials
+05/05/2022 01:20:37 PM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 01:20:37 PM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 34490), raddr=('54.85.202.176', 5671)>
+05/05/2022 01:20:38 PM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 34490), raddr=('54.85.202.176', 5671)>
+05/05/2022 01:20:38 PM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c48a78>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c48a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 01:20:38 PM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c48a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:20:38 PM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c48a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:20:38 PM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c48a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:20:38 PM Created channel=1
+05/05/2022 01:20:38 PM:INFO:Subscribed MessageQueue...
+05/05/2022 01:20:38 PM Subscribed MessageQueue...
+05/05/2022 01:20:38 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 01:20:38 PM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 01:20:38 PM:INFO:Starting Video Stream
+05/05/2022 01:20:38 PM Starting Video Stream
+05/05/2022 01:20:38 PM:INFO:Recording started now!...
+05/05/2022 01:20:38 PM Recording started now!...
+05/05/2022 01:20:45 PM:INFO:Persisted frame: image_2022-05-05_13.20.43.png
+05/05/2022 01:20:45 PM Persisted frame: image_2022-05-05_13.20.43.png
+05/05/2022 01:20:50 PM:INFO:Persisted frame: image_2022-05-05_13.20.50.png
+05/05/2022 01:20:50 PM Persisted frame: image_2022-05-05_13.20.50.png
+05/05/2022 01:20:55 PM:INFO:Persisted frame: image_2022-05-05_13.20.55.png
+05/05/2022 01:20:55 PM Persisted frame: image_2022-05-05_13.20.55.png
+05/05/2022 01:21:01 PM:INFO:Persisted frame: image_2022-05-05_13.21.00.png
+05/05/2022 01:21:01 PM Persisted frame: image_2022-05-05_13.21.00.png
+05/05/2022 01:21:06 PM:INFO:Persisted frame: image_2022-05-05_13.21.06.png
+05/05/2022 01:21:06 PM Persisted frame: image_2022-05-05_13.21.06.png
+05/05/2022 01:21:11 PM:INFO:Persisted frame: image_2022-05-05_13.21.11.png
+05/05/2022 01:21:11 PM Persisted frame: image_2022-05-05_13.21.11.png
+05/05/2022 01:21:17 PM:INFO:Persisted frame: image_2022-05-05_13.21.16.png
+05/05/2022 01:21:17 PM Persisted frame: image_2022-05-05_13.21.16.png
+05/05/2022 01:21:22 PM:INFO:Persisted frame: image_2022-05-05_13.21.22.png
+05/05/2022 01:21:22 PM Persisted frame: image_2022-05-05_13.21.22.png
+05/05/2022 01:21:27 PM:INFO:Persisted frame: image_2022-05-05_13.21.27.png
+05/05/2022 01:21:27 PM Persisted frame: image_2022-05-05_13.21.27.png
+05/05/2022 01:21:33 PM:INFO:Persisted frame: image_2022-05-05_13.21.32.png
+05/05/2022 01:21:33 PM Persisted frame: image_2022-05-05_13.21.32.png
+05/05/2022 01:21:38 PM:INFO:Persisted frame: image_2022-05-05_13.21.38.png
+05/05/2022 01:21:38 PM Persisted frame: image_2022-05-05_13.21.38.png
+05/05/2022 01:21:44 PM:INFO:Persisted frame: image_2022-05-05_13.21.43.png
+05/05/2022 01:21:44 PM Persisted frame: image_2022-05-05_13.21.43.png
+05/05/2022 01:21:49 PM:INFO:Persisted frame: image_2022-05-05_13.21.49.png
+05/05/2022 01:21:49 PM Persisted frame: image_2022-05-05_13.21.49.png
+05/05/2022 01:21:54 PM:INFO:Persisted frame: image_2022-05-05_13.21.54.png
+05/05/2022 01:21:54 PM Persisted frame: image_2022-05-05_13.21.54.png
+05/05/2022 01:22:00 PM:INFO:Persisted frame: image_2022-05-05_13.21.59.png
+05/05/2022 01:22:00 PM Persisted frame: image_2022-05-05_13.21.59.png
+05/05/2022 01:22:01 PM:INFO:Stopping Video Stream
+05/05/2022 01:22:01 PM Stopping Video Stream
+05/05/2022 01:22:01 PM:INFO:Stopped Video Stream
+05/05/2022 01:22:01 PM Stopped Video Stream
+05/05/2022 01:22:01 PM:INFO:Closing Message Queue Connection
+05/05/2022 01:22:01 PM Closing Message Queue Connection
+05/05/2022 01:22:01 PM:INFO:Closed Message Queue Connection
+05/05/2022 01:22:01 PM Closed Message Queue Connection
+05/05/2022 01:22:01 PM:INFO:Recording saved at ./recordings/recording_2022-05-05_13.20.38.h264
+05/05/2022 01:22:01 PM Recording saved at ./recordings/recording_2022-05-05_13.20.38.h264
+05/05/2022 01:22:02 PM:INFO:Uploaded recording_2022-05-05_13.20.38.h264 video file to S3 Bucket
+05/05/2022 01:22:02 PM Uploaded recording_2022-05-05_13.20.38.h264 video file to S3 Bucket
+05/05/2022 01:22:02 PM:INFO:==================BYE!==================
+05/05/2022 01:22:02 PM ==================BYE!==================
+05/05/2022 01:35:13 PM Found credentials in shared credentials file: ~/.aws/credentials
+05/05/2022 01:35:13 PM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 01:35:13 PM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 34498), raddr=('54.85.202.176', 5671)>
+05/05/2022 01:35:14 PM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 34498), raddr=('54.85.202.176', 5671)>
+05/05/2022 01:35:14 PM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bd5a78>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bd5a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 01:35:14 PM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bd5a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:35:14 PM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bd5a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:35:14 PM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73bd5a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:35:14 PM Created channel=1
+05/05/2022 01:35:14 PM:INFO:Subscribed MessageQueue...
+05/05/2022 01:35:14 PM Subscribed MessageQueue...
+05/05/2022 01:35:14 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 01:35:14 PM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 01:35:14 PM:INFO:Starting Video Stream
+05/05/2022 01:35:14 PM Starting Video Stream
+05/05/2022 01:35:14 PM:INFO:Recording started now!...
+05/05/2022 01:35:14 PM Recording started now!...
+05/05/2022 01:35:20 PM:INFO:Persisted frame: image_2022-05-05_13.35.19.png
+05/05/2022 01:35:20 PM Persisted frame: image_2022-05-05_13.35.19.png
+05/05/2022 01:35:25 PM:INFO:Persisted frame: image_2022-05-05_13.35.25.png
+05/05/2022 01:35:25 PM Persisted frame: image_2022-05-05_13.35.25.png
+05/05/2022 01:35:31 PM:INFO:Persisted frame: image_2022-05-05_13.35.30.png
+05/05/2022 01:35:31 PM Persisted frame: image_2022-05-05_13.35.30.png
+05/05/2022 01:35:36 PM:INFO:Persisted frame: image_2022-05-05_13.35.36.png
+05/05/2022 01:35:36 PM Persisted frame: image_2022-05-05_13.35.36.png
+05/05/2022 01:35:41 PM:INFO:Persisted frame: image_2022-05-05_13.35.41.png
+05/05/2022 01:35:41 PM Persisted frame: image_2022-05-05_13.35.41.png
+05/05/2022 01:35:47 PM:INFO:Persisted frame: image_2022-05-05_13.35.46.png
+05/05/2022 01:35:47 PM Persisted frame: image_2022-05-05_13.35.46.png
+05/05/2022 01:35:52 PM:INFO:Persisted frame: image_2022-05-05_13.35.52.png
+05/05/2022 01:35:52 PM Persisted frame: image_2022-05-05_13.35.52.png
+05/05/2022 01:35:58 PM:INFO:Persisted frame: image_2022-05-05_13.35.57.png
+05/05/2022 01:35:58 PM Persisted frame: image_2022-05-05_13.35.57.png
+05/05/2022 01:36:03 PM:INFO:Persisted frame: image_2022-05-05_13.36.03.png
+05/05/2022 01:36:03 PM Persisted frame: image_2022-05-05_13.36.03.png
+05/05/2022 01:36:08 PM:INFO:Persisted frame: image_2022-05-05_13.36.08.png
+05/05/2022 01:36:08 PM Persisted frame: image_2022-05-05_13.36.08.png
+05/05/2022 01:36:14 PM:INFO:Persisted frame: image_2022-05-05_13.36.13.png
+05/05/2022 01:36:14 PM Persisted frame: image_2022-05-05_13.36.13.png
+05/05/2022 01:36:19 PM:INFO:Persisted frame: image_2022-05-05_13.36.19.png
+05/05/2022 01:36:19 PM Persisted frame: image_2022-05-05_13.36.19.png
+05/05/2022 01:36:24 PM:INFO:Persisted frame: image_2022-05-05_13.36.24.png
+05/05/2022 01:36:24 PM Persisted frame: image_2022-05-05_13.36.24.png
+05/05/2022 01:36:26 PM:INFO:Stopping Video Stream
+05/05/2022 01:36:26 PM Stopping Video Stream
+05/05/2022 01:36:26 PM:INFO:Stopped Video Stream
+05/05/2022 01:36:26 PM Stopped Video Stream
+05/05/2022 01:36:26 PM:INFO:Closing Message Queue Connection
+05/05/2022 01:36:26 PM Closing Message Queue Connection
+05/05/2022 01:36:26 PM:INFO:Closed Message Queue Connection
+05/05/2022 01:36:26 PM Closed Message Queue Connection
+05/05/2022 01:36:26 PM:INFO:Recording saved at ./recordings/recording_2022-05-05_13.35.14.h264
+05/05/2022 01:36:26 PM Recording saved at ./recordings/recording_2022-05-05_13.35.14.h264
+05/05/2022 01:36:27 PM:INFO:Uploaded recording_2022-05-05_13.35.14.h264 video file to S3 Bucket
+05/05/2022 01:36:27 PM Uploaded recording_2022-05-05_13.35.14.h264 video file to S3 Bucket
+05/05/2022 01:36:27 PM:INFO:==================BYE!==================
+05/05/2022 01:36:27 PM ==================BYE!==================
+05/05/2022 01:39:19 PM Found credentials in shared credentials file: ~/.aws/credentials
+05/05/2022 01:39:19 PM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 01:39:19 PM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 34506), raddr=('54.85.202.176', 5671)>
+05/05/2022 01:39:20 PM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 34506), raddr=('54.85.202.176', 5671)>
+05/05/2022 01:39:20 PM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2fa78>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2fa78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 01:39:20 PM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2fa78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:39:20 PM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2fa78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:39:20 PM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c2fa78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 01:39:20 PM Created channel=1
+05/05/2022 01:39:20 PM:INFO:Subscribed MessageQueue...
+05/05/2022 01:39:20 PM Subscribed MessageQueue...
+05/05/2022 01:39:20 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 01:39:20 PM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 01:39:20 PM:INFO:Starting Video Stream
+05/05/2022 01:39:20 PM Starting Video Stream
+05/05/2022 01:39:20 PM:INFO:Recording started now!...
+05/05/2022 01:39:20 PM Recording started now!...
+05/05/2022 01:39:26 PM:INFO:Persisted frame: image_2022-05-05_13.39.25.png
+05/05/2022 01:39:26 PM Persisted frame: image_2022-05-05_13.39.25.png
+05/05/2022 01:39:31 PM:INFO:Persisted frame: image_2022-05-05_13.39.31.png
+05/05/2022 01:39:31 PM Persisted frame: image_2022-05-05_13.39.31.png
+05/05/2022 01:39:37 PM:INFO:Persisted frame: image_2022-05-05_13.39.36.png
+05/05/2022 01:39:37 PM Persisted frame: image_2022-05-05_13.39.36.png
+05/05/2022 01:39:42 PM:INFO:Persisted frame: image_2022-05-05_13.39.42.png
+05/05/2022 01:39:42 PM Persisted frame: image_2022-05-05_13.39.42.png
+05/05/2022 01:39:47 PM:INFO:Persisted frame: image_2022-05-05_13.39.47.png
+05/05/2022 01:39:47 PM Persisted frame: image_2022-05-05_13.39.47.png
+05/05/2022 01:39:53 PM:INFO:Persisted frame: image_2022-05-05_13.39.52.png
+05/05/2022 01:39:53 PM Persisted frame: image_2022-05-05_13.39.52.png
+05/05/2022 01:39:58 PM:INFO:Persisted frame: image_2022-05-05_13.39.58.png
+05/05/2022 01:39:58 PM Persisted frame: image_2022-05-05_13.39.58.png
+05/05/2022 01:40:03 PM:INFO:Persisted frame: image_2022-05-05_13.40.03.png
+05/05/2022 01:40:03 PM Persisted frame: image_2022-05-05_13.40.03.png
+05/05/2022 01:40:09 PM:INFO:Persisted frame: image_2022-05-05_13.40.09.png
+05/05/2022 01:40:09 PM Persisted frame: image_2022-05-05_13.40.09.png
+05/05/2022 01:40:10 PM:INFO:Stopping Video Stream
+05/05/2022 01:40:10 PM Stopping Video Stream
+05/05/2022 01:40:10 PM:INFO:Stopped Video Stream
+05/05/2022 01:40:10 PM Stopped Video Stream
+05/05/2022 01:40:10 PM:INFO:Closing Message Queue Connection
+05/05/2022 01:40:10 PM Closing Message Queue Connection
+05/05/2022 01:40:10 PM:INFO:Closed Message Queue Connection
+05/05/2022 01:40:10 PM Closed Message Queue Connection
+05/05/2022 01:40:10 PM:INFO:Recording saved at ./recordings/recording_2022-05-05_13.39.20.h264
+05/05/2022 01:40:10 PM Recording saved at ./recordings/recording_2022-05-05_13.39.20.h264
+05/05/2022 01:40:11 PM:INFO:Uploaded recording_2022-05-05_13.39.20.h264 video file to S3 Bucket
+05/05/2022 01:40:11 PM Uploaded recording_2022-05-05_13.39.20.h264 video file to S3 Bucket
+05/05/2022 01:40:11 PM:INFO:==================BYE!==================
+05/05/2022 01:40:11 PM ==================BYE!==================
+05/05/2022 08:12:53 PM Found credentials in shared credentials file: ~/.aws/credentials
+05/05/2022 08:12:53 PM Address resolution failed: gaierror(-2, 'Name or service not known')
+05/05/2022 08:12:53 PM getaddrinfo failed: gaierror(-2, 'Name or service not known').
+05/05/2022 08:12:53 PM AMQP connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None.
+05/05/2022 08:12:53 PM AMQPConnectionWorkflow - reporting failure: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+05/05/2022 08:12:53 PM Connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+05/05/2022 08:12:53 PM Error in _create_connection().
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/blocking_connection.py", line 451, in _create_connection
+    raise self._reap_last_connection_workflow_error(error)
+  File "/home/pi/.local/lib/python3.9/site-packages/pika/adapters/utils/selector_ioloop_adapter.py", line 565, in _resolve
+    result = socket.getaddrinfo(self._host, self._port, self._family,
+  File "/usr/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+05/05/2022 08:13:15 PM Found credentials in shared credentials file: ~/.aws/credentials
+05/05/2022 08:13:15 PM Pika version 1.2.1 connecting to ('54.85.202.176', 5671)
+05/05/2022 08:13:15 PM Socket connected: <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 49974), raddr=('54.85.202.176', 5671)>
+05/05/2022 08:13:16 PM SSL handshake completed successfully: <ssl.SSLSocket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.0.19', 49974), raddr=('54.85.202.176', 5671)>
+05/05/2022 08:13:16 PM Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c38a78>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c38a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>).
+05/05/2022 08:13:16 PM AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c38a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 08:13:16 PM AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c38a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 08:13:16 PM Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncSSLTransport object at 0x73c38a78> params=<URLParameters host=b-207a88e6-433a-48c9-b1db-6170661361bf.mq.us-east-1.amazonaws.com port=5671 virtual_host=/ ssl=True>>
+05/05/2022 08:13:16 PM Created channel=1
+05/05/2022 08:13:16 PM:INFO:Subscribed MessageQueue...
+05/05/2022 08:13:16 PM Subscribed MessageQueue...
+05/05/2022 08:13:16 PM:INFO:Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 08:13:16 PM Initializing Pi Video Stream with Res(160*160) and framerate(32)
+05/05/2022 08:13:16 PM:INFO:Starting Video Stream
+05/05/2022 08:13:16 PM Starting Video Stream
+05/05/2022 08:13:16 PM:INFO:Recording started now!...
+05/05/2022 08:13:16 PM Recording started now!...
+05/05/2022 08:13:22 PM:INFO:Persisted frame: image_2022-05-05_20.13.22.png
+05/05/2022 08:13:22 PM Persisted frame: image_2022-05-05_20.13.22.png
+05/05/2022 08:13:28 PM:INFO:Persisted frame: image_2022-05-05_20.13.27.png
+05/05/2022 08:13:28 PM Persisted frame: image_2022-05-05_20.13.27.png
+05/05/2022 08:13:33 PM:INFO:Persisted frame: image_2022-05-05_20.13.33.png
+05/05/2022 08:13:33 PM Persisted frame: image_2022-05-05_20.13.33.png
+05/05/2022 08:13:39 PM:INFO:Persisted frame: image_2022-05-05_20.13.38.png
+05/05/2022 08:13:39 PM Persisted frame: image_2022-05-05_20.13.38.png
+05/05/2022 08:13:44 PM:INFO:Persisted frame: image_2022-05-05_20.13.44.png
+05/05/2022 08:13:44 PM Persisted frame: image_2022-05-05_20.13.44.png
+05/05/2022 08:13:49 PM:INFO:Persisted frame: image_2022-05-05_20.13.49.png
+05/05/2022 08:13:49 PM Persisted frame: image_2022-05-05_20.13.49.png
+05/05/2022 08:13:55 PM:INFO:Persisted frame: image_2022-05-05_20.13.55.png
+05/05/2022 08:13:55 PM Persisted frame: image_2022-05-05_20.13.55.png
+05/05/2022 08:14:00 PM:INFO:Persisted frame: image_2022-05-05_20.14.00.png
+05/05/2022 08:14:00 PM Persisted frame: image_2022-05-05_20.14.00.png
+05/05/2022 08:14:06 PM:INFO:Persisted frame: image_2022-05-05_20.14.05.png
+05/05/2022 08:14:06 PM Persisted frame: image_2022-05-05_20.14.05.png
+05/05/2022 08:14:11 PM:INFO:Persisted frame: image_2022-05-05_20.14.11.png
+05/05/2022 08:14:11 PM Persisted frame: image_2022-05-05_20.14.11.png
+05/05/2022 08:14:16 PM:INFO:Persisted frame: image_2022-05-05_20.14.16.png
+05/05/2022 08:14:16 PM Persisted frame: image_2022-05-05_20.14.16.png
+05/05/2022 08:14:22 PM:INFO:Persisted frame: image_2022-05-05_20.14.21.png
+05/05/2022 08:14:22 PM Persisted frame: image_2022-05-05_20.14.21.png
+05/05/2022 08:14:27 PM:INFO:Persisted frame: image_2022-05-05_20.14.27.png
+05/05/2022 08:14:27 PM Persisted frame: image_2022-05-05_20.14.27.png
+05/05/2022 08:14:32 PM:INFO:Persisted frame: image_2022-05-05_20.14.32.png
+05/05/2022 08:14:32 PM Persisted frame: image_2022-05-05_20.14.32.png
+05/05/2022 08:14:38 PM:INFO:Persisted frame: image_2022-05-05_20.14.38.png
+05/05/2022 08:14:38 PM Persisted frame: image_2022-05-05_20.14.38.png
+05/05/2022 08:14:43 PM:INFO:Persisted frame: image_2022-05-05_20.14.43.png
+05/05/2022 08:14:43 PM Persisted frame: image_2022-05-05_20.14.43.png
+05/05/2022 08:14:49 PM:INFO:Persisted frame: image_2022-05-05_20.14.49.png
+05/05/2022 08:14:49 PM Persisted frame: image_2022-05-05_20.14.49.png
+05/05/2022 08:14:54 PM:INFO:Persisted frame: image_2022-05-05_20.14.54.png
+05/05/2022 08:14:54 PM Persisted frame: image_2022-05-05_20.14.54.png
+05/05/2022 08:14:58 PM:INFO:Stopping Video Stream
+05/05/2022 08:14:58 PM Stopping Video Stream
+05/05/2022 08:14:58 PM:INFO:Stopped Video Stream
+05/05/2022 08:14:58 PM Stopped Video Stream
+05/05/2022 08:14:58 PM:INFO:Closing Message Queue Connection
+05/05/2022 08:14:58 PM Closing Message Queue Connection
+05/05/2022 08:14:58 PM:INFO:Closed Message Queue Connection
+05/05/2022 08:14:58 PM Closed Message Queue Connection
+05/05/2022 08:14:58 PM:INFO:Recording saved at ./recordings/recording_2022-05-05_20.13.16.h264
+05/05/2022 08:14:58 PM Recording saved at ./recordings/recording_2022-05-05_20.13.16.h264
+05/05/2022 08:15:02 PM:INFO:Uploaded recording_2022-05-05_20.13.16.h264 video file to S3 Bucket
+05/05/2022 08:15:02 PM Uploaded recording_2022-05-05_20.13.16.h264 video file to S3 Bucket
+05/05/2022 08:15:02 PM:INFO:==================BYE!==================
+05/05/2022 08:15:02 PM ==================BYE!==================
